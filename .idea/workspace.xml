@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4935ed-498b-460d-8244-4c21db7c9018" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="9f4935ed-498b-460d-8244-4c21db7c9018" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -177,17 +175,6 @@
             <path>
               <item name="workplace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workplace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workplace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workplace" type="462c0819:PsiDirectoryNode" />
-              <item name="basePython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workplace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workplace" type="462c0819:PsiDirectoryNode" />
-              <item name="basePython" type="462c0819:PsiDirectoryNode" />
-              <item name="planeWar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workplace" type="b2602c69:ProjectViewProjectNode" />
@@ -772,7 +759,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
