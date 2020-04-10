@@ -2,109 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f4935ed-498b-460d-8244-4c21db7c9018" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_01_fisrtObOr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_02_secNewObOr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_05_initMeth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_07_del_method.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_08_str_method.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_09_xmlikeRun.mehtod.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_10_xmlikeRunExt.mehtod.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_11_furni_01_furni.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_12_furni_01_furniAdd.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_13_furni_03_furniAdd.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_14_soldier_01_gun.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_15_soldier_02_soldier.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/hm_16_soldier_03_soldierFire.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/08_objectOriented/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_01_noUse.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_02_useOrientedAnmail.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_03_orientedTrans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_04_orientedTranserObserver.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_11_polymorphismAttribute.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/09_orientedCharitA/hm_12_classAttribute.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_01_简单的异常捕获.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_02_捕获错误类型.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_03_捕获未知错误.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_04_完整的异常语法.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_05_异常的传递.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_06_抛出异常.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_01_测试模块1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_02_测试模块2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_03_import导入模块.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_04_import同时指定别名.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_05_from_import导入.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_06_from_import_注意事项.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_07_from_import导入全部.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_08_模块的搜索顺序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_09___name__模块.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_09___name__测试导入.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_10_导入包.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_message/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_message/receive_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/11_模块/hm_message/send_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/MANIFEST" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/build/lib/hm_message/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/build/lib/hm_message/receive_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/build/lib/hm_message/send_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/dist/hm_message-1.0.tar.gz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/hm_message/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/hm_message/receive_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/hm_message/send_message.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/12_发布模块/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/REAMDE[复件]" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_01_读取文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_02_读取文件后文件指针会改变.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_03_写入文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_04_分行读取文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_05_复制文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_06_复制大文件.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_07_python2字符串.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/10_python综合/13_文件/hm_08_eval计算器.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/hm_01_pygamePri.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/again.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/bomb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/bomb_supply.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/bullet1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/bullet2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/bullet_supply.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy1_down1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy1_down2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy1_down3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy1_down4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2_down1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2_down2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2_down3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2_down4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy2_hit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_down6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_hit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_n1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/enemy3_n2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/gameover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/life.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me_destroy_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me_destroy_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me_destroy_3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/me_destroy_4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/pause_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/pause_pressed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/resume_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/images/resume_pressed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/plane_main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basePython/planeWar/plane_sprites.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workplace.iml" afterPath="$PROJECT_DIR$/.idea/workplace.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -161,14 +59,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plane_sprites.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="plane_sprites.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basePython/planeWar/plane_sprites.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -228,6 +136,7 @@
         <option value="$PROJECT_DIR$/basePython/10_python综合/13_文件/REAMDE[复件]" />
         <option value="$PROJECT_DIR$/basePython/10_python综合/13_文件/test.py" />
         <option value="$PROJECT_DIR$/basePython/planeWar/hm_01_pygamePri.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -456,15 +365,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1725" height="945" extended-state="6" />
+    <frame x="65" y="-4" width="1725" height="655" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.50207716" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29346487" sideWeight="0.49792284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4568138" sideWeight="0.49792284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32793018" sideWeight="0.49792284" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.072575845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.072575845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -497,13 +407,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basePython/10_python综合/10_异常/hm_06_抛出异常.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basePython/07_grammer/hm_01_quote.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -859,10 +762,18 @@
     <entry file="file://$PROJECT_DIR$/basePython/planeWar/plane_sprites.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
